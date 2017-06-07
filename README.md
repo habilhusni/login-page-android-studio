@@ -1,1 +1,1 @@
-# login-page-android-studio
+# Simple login page using android studio
